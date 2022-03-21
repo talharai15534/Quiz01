@@ -1,0 +1,109 @@
+#header{
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    background: rgb(124, 65, 65);
+    padding-left:70px;
+    color: white;
+   }
+   
+   #ui{
+    display: grid;
+    grid-template-columns: 0.2fr 0.5fr;
+   }
+   .skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   }
+   #ent{
+    margin-top: 0px;
+   }
+ 
+
+   .topM{
+    margin-top: 20px;
+    margin-bottom: 10px;
+   
+   }
+   #contacts{
+    background: #CDCDCF;
+    padding: 10px;
+   }
+   #skills{
+    background: #CDCDCF;
+    padding: 10px;
+   }
+   #exp1{
+    margin-right: 20px;
+    display: grid;
+    padding:30px;
+    grid-template-columns: 1fr 2fr ;
+   }
+   p{
+    text-align: justify;
+   }
+   #head{
+    font-weight: bold;
+   }
+   svg{
+    height: 1em;
+    margin-left: 40px;
+   }
+   #left-mrgm{
+    margin-left: 40px;
+    font-weight: bold;
+   }
+   .box{
+    height: 20px;
+    width: 20px;
+    background: black;
+   }
+   #image{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+   }
+   #name{
+    letter-spacing: 0.5em;
+    font-weight: bold;
+    margin-top: 20px;
+   }
+   #web{
+    letter-spacing: 0.2em;
+    margin-top: 30px;
+   }
+   #underline{
+    width: 440px;
+    height: 7px;
+    margin-top: 20px;
+    background: #535a7c;
+   }
+   #exp{
+    background: #CDCDCF;
+    padding: 10px;
+   }
+   #wrapper{
+    padding: 0px;
+    margin-top: 50px;
+    font-family: sans-serif;
+   }
+  /* #experiene {
+       display:grid;
+       grid-template-columns: 1fr 1fr;
+   }*/
+   #contct{
+
+       display: grid;
+       padding:20px;
+       padding-left:60px;
+       grid-template-columns: .5fr .5fr 1fr;
+   }
+   #skills{
+       display: grid;
+       grid-template-columns: 2fr 2fr;
+   }
+   #dis{
+       padding:30px;
+       padding-bottom: 20px;
+   }
